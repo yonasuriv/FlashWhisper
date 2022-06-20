@@ -19,4 +19,4 @@
  - Based on DuckDuckGo. 
  - Aimed for users that cares about privacy.
 
-### <p align="center"> The website was made using HTML5, CSS3, Bootstrap & Javascript.</p>
+### <p align="center"> The website was made using HTML5, CSS3, Bootstrap & JavaScript.</p>
