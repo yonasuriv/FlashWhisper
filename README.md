@@ -5,7 +5,7 @@
 
 ### <p align="center">View the live preview on [Vercel](https://flashwhisper.vercel.app/)</p>
 
-![Flash-Whisper](https://user-images.githubusercontent.com/59540565/174652862-120b808f-bc7b-4aac-a970-ba57d9e5c5a1.png)
+![Flash-Whisper](https://user-images.githubusercontent.com/59540565/174655771-b0ebac02-f63b-4cda-9fe9-4c326857d85e.png)
 
 ### Features
 
