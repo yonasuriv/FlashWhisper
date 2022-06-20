@@ -3,7 +3,7 @@
 
 *Currently under development, will be uploaded soon.*
 
-Born as a **Clone** Project but got updated for *merging* **Google** and **DuckDuckGo**
+Born as a **Clone** Project but got updated for *merging* **Google** and **DuckDuckGo** while going as minimal as possible.
 
 ![Flash-Whisper-Search-Engine](https://user-images.githubusercontent.com/59540565/174643306-6f92161a-e78c-412c-ad73-f34885a793a4.png)
 
