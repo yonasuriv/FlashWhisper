@@ -21,4 +21,3 @@ Born as a **Clone** Project but got updated for *merging* **Google** and **DuckD
  - Aimed for users that cares about privacy.
 
 
-
