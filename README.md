@@ -1,9 +1,9 @@
 
 # Flash Whisper Search Engine
 
-<p align="center">Minimalist **Clone** Project  *merging* **Google** and **DuckDuckGo**.
+<p align="center">Minimalist **Clone** Project  *merging* **Google** and **DuckDuckGo**.</p>
 
-### View the live preview on [Vercel](https://flashwhisper.vercel.app/)</p>
+### <p align="center">View the live preview on [Vercel](https://flashwhisper.vercel.app/)</p>
 
 ![Flash-Whisper](https://user-images.githubusercontent.com/59540565/174652862-120b808f-bc7b-4aac-a970-ba57d9e5c5a1.png)
 
