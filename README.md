@@ -1,6 +1,6 @@
 # Flash Whisper Search Engine
 
-### *Currently under development. View the live preview on [Vercel](https://flashwhisper.vercel.app/)*
+### Currently under development. View the live preview on [Vercel](https://flashwhisper.vercel.app/)
 
 ---
 
