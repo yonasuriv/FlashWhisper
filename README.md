@@ -1,12 +1,13 @@
+
 # Flash Whisper Search Engine
 
-### Currently under development. View the live preview on [Vercel](https://flashwhisper.vercel.app/)
+### View the live preview on [Vercel](https://flashwhisper.vercel.app/)
 
 ---
 
-Born as a **Clone** Project but got updated for *merging* **Google** and **DuckDuckGo** while going as minimal as possible.
+Minimalist **Clone** Project  *merging* **Google** and **DuckDuckGo**.
 
-![Flash-Whisper-Search-Engine](https://user-images.githubusercontent.com/59540565/174643306-6f92161a-e78c-412c-ad73-f34885a793a4.png)
+![Flash-Whisper](https://user-images.githubusercontent.com/59540565/174652862-120b808f-bc7b-4aac-a970-ba57d9e5c5a1.png)
 
 ### Features
 
