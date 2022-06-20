@@ -1,7 +1,7 @@
 
 # Flash Whisper Search Engine
 
-### View the live preview on [Vercel](https://flashwhisper.vercel.app/)
+### <p align="center"> View the live preview on [Vercel](https://flashwhisper.vercel.app/)</p>
 
 ---
 
@@ -21,4 +21,4 @@ Minimalist **Clone** Project  *merging* **Google** and **DuckDuckGo**.
  - Based on DuckDuckGo. 
  - Aimed for users that cares about privacy.
 
-
+### <p align="center"> The website is made using HTML5 , CSS3 , Bootstrap v5.2 , Javascript .</p>
