@@ -1,7 +1,7 @@
 
 # Flash Whisper Search Engine
 
-*Currently being finished, will be uploaded soon.*
+*Currently under development, will be uploaded soon.*
 
 Born as a **Clone** Project but got updated for *merging* **Google** and **DuckDuckGo**
 
