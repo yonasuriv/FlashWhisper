@@ -46,7 +46,7 @@ This website was made using the following tools:
 - CSS3
 - Boostrap
 - JavaScript
-- Dev Tools
+- Dev Tools  
 -- [Fontsninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) and [Colorpicker](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei) extension to fasten the work
 
 > At first I used an extension called [Color Fly Picker](https://chrome.google.com/webstore/detail/jjooglnnhopdfiiccjbkjdcpplgdkbmo) but I noticed a strange behavior in my browser, which investigating further I noticed that it was malware. It was subtle, but lasting 2 seconds, that I managed to realize that something was wrong, 
