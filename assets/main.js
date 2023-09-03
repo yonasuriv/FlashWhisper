@@ -1,29 +1,77 @@
-let searchInput = document.querySelector("#search-input");
+document.getElementById("mainButton").addEventListener("click", function(event) {
+    event.preventDefault();
 
-searchInput.addEventListener("keydown", function(event) {
-    if(event.code === "Enter") {
-        solarSearch();
+    const selectedOption = document.querySelector('input[name="option"]:checked');
+
+    if (selectedOption) {
+        const link = selectedOption.value;
+        const input = document.getElementById("search-input").value;
+        if (input != "" && input != null) {
+            window.location.href = link + encodeURIComponent(input);
+        } else {
+            alert("Please enter a search query.");
+        }
+    } else {
+        alert("Please select a search engine.");
     }
 });
 
-function solarSearch() {
-    const input = searchInput.value;
-    if (input != "" && input != null) {
-        window.location.href = "https://www.google.com/search?q=" + encodeURIComponent(input);
+document.getElementById("search-input").addEventListener("keydown", function(event) {
+    if (event.code === "Enter") {
+        const selectedOption = document.querySelector('input[name="option"]:checked');
+
+        if (selectedOption) {
+            const link = selectedOption.value;
+            const input = document.getElementById("search-input").value;
+            if (input != "" && input != null) {
+                window.location.href = link + encodeURIComponent(input);
+            } else {
+                alert("Please enter a search query.");
+            }
+        } else {
+            alert("Please select a search engine.");
+        }
+    }
+});
+
+
+/* Light/Dark Mode Function
+
+// JavaScript to handle day/dark mode toggle
+const modeToggle = document.getElementById("modeToggle");
+
+modeToggle.addEventListener("change", () => {
+    if (modeToggle.checked) {
+        // Dark mode is activated
+        document.body.classList.add("dark-mode");
+    } else {
+        // Day mode is activated
+        document.body.classList.remove("dark-mode");
+    }
+});
+
+
+function toggle_light_mode() {
+    var app = document.getElementsByTagName("BODY")[0];
+    if (localStorage.lightMode == "dark") {
+        localStorage.lightMode = "light";
+        app.setAttribute("light-mode", "light");
+    } else {
+        localStorage.lightMode = "dark";
+        app.setAttribute("light-mode", "dark");
     }
 }
 
-function shadowSearch() {
-    const input = searchInput.value;
-    if (input != "" && input != null) {
-        window.location.href = "https://duckduckgo.com/?q=" + encodeURIComponent(input);
-    }
-}
+window.addEventListener(
+    "storage",
+    function () {
+        if (localStorage.lightMode == "dark") {
+            app.setAttribute("light-mode", "dark");
+        } else {
+            app.setAttribute("light-mode", "light");
+        }
+    },
+    false
+);
 
-document.getElementById("solarSearch").onclick = function () {
-    solarSearch();
-};
-
-document.getElementById("shadowSearch").onclick = function () {
-    shadowSearch();
-};
+*/
