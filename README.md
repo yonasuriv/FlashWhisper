@@ -5,7 +5,7 @@
 
   
 
-<p align="center">Minimalist <strong>Clone</strong> Project <em>merging</em> <strong>Google</strong> and <strong>DuckDuckGo</strong>.</p>
+<p align="center">Minimalist <strong>All-in-on</strong> Search Engine <em>merging</em>.</p>
 
   
 
