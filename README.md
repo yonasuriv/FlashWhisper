@@ -5,7 +5,7 @@
 
   
 
-<p align="center">Minimalist <strong>All-in-on</strong> Search Engine <em>merging</em>.</p>
+<p align="center">Minimalist <strong>All-in-one</strong> Search Engine.</p>
 
   
 
