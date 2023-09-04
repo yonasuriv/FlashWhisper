@@ -21,23 +21,21 @@
 
   
 
-#### Solar Search
+#### Web Search
 
   
 
-- Based on Google.
+- Google (default)
+- DuckDuckGo
+- Brave
+- Metager
+- SearX
+- Whoogle
+- Start Page
 
-- Aimed for regular users.
+#### OSINT
 
-  
-
-#### Shadow Search
-
-  
-
-- Based on DuckDuckGo.
-
-- Aimed for users that cares about privacy.
+- Under Development
 
   
 ### Tools
