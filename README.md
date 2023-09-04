@@ -25,7 +25,7 @@
 
   
 
-- Google (default)
+- Google *(default)*
 - DuckDuckGo
 - Brave
 - Metager
@@ -35,7 +35,7 @@
 
 #### OSINT
 
-- Under Development
+- *Under Development*
 
   
 ### Tools
