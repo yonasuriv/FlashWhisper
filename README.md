@@ -1,9 +1,8 @@
-
+Project repository migrated to [Varuna](https://github.com/yonasuriv/varuna)
   
 
 # Flash Whisper Search Engine
 
-  
 
 <p align="center">Minimalist <strong>All-in-one</strong> Search Engine.</p>
 
